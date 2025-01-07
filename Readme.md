@@ -1,0 +1,1 @@
+Implented graphene in django project for generating the schemas
